@@ -5,3 +5,6 @@
 
 ## ガントチャート
 https://github.com/orgs/GameCreate-LiverPate/projects/1
+
+## 開発ルール
+https://github.com/GameCreate-LiverPate/development-rules
